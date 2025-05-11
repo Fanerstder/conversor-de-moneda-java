@@ -25,7 +25,10 @@ Este proyecto ha sido desarrollado como parte del desafío propuesto por **Alura
 ## 📷 Ejemplo de ejecución
 Aquí tienes una captura de pantalla del programa en funcionamiento:
 
-![Ejecución del Conversor de Moneda](https://TU_LINK_A_IMAGEN.png)
+![Ejecución del Conversor de Moneda](https://github.com/Fanerstder/conversor-de-moneda-java/blob/main/image/images1.png)
+![Ejecución del Conversor de Moneda](https://github.com/Fanerstder/conversor-de-moneda-java/blob/main/image/images2.png)
+![Ejecución del Conversor de Moneda](https://github.com/Fanerstder/conversor-de-moneda-java/blob/main/image/images3.png)
+
 
 ## 🔗 Enlace al repositorio
 Puedes acceder al código fuente en GitHub a través del siguiente enlace:
@@ -37,3 +40,8 @@ Para ejecutar este proyecto en tu entorno local:
 1. Clona el repositorio:
    ```sh
    git clone https://github.com/Fanerstder/conversor-de-moneda-java.git
+
+   ---
+✍️ **Creado por:** Faner Santander  
+📅 **Fecha:** [10/05/2025]  
+
